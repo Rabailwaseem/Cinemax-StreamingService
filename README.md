@@ -28,6 +28,8 @@ Cinemax is a web-based Netflix clone that incorporates Clean Architecture princi
   
 
 ## Frontend Technologies
+## Frontend Project Link:
+![] https://github.com/Rabailwaseem/Cinemax-StreamingService/releases/tag/v1.0.0
 
 -   HTML5, CSS3, JavaScript: The core technologies used for structuring, styling, and adding interactivity to the frontend.
     
