@@ -58,5 +58,3 @@ Cinemax is a web-based Netflix clone that incorporates Clean Architecture princi
 Cinemax integrates a wide range of web development technologies on both the backend and frontend. It features secure user authentication and authorization, real-time communication, and a scalable, maintainable architecture.
 
   
-
-Microsoft Word text here..
